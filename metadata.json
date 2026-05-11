@@ -1,0 +1,6 @@
+{
+  "name": "Potepote Hiking (ぽてぽて登山)",
+  "description": "Professional mountain route recommendations for Japan. From beginners to pros, discover your perfect hiking trail. Supporting English and Japanese.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
